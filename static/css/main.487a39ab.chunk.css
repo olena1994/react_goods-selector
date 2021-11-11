@@ -1,0 +1,2 @@
+.App{font-family:sans-serif;padding-left:50px}.App--ul{padding:0;list-style:none}.App--li{font-size:25px;display:flex;width:300px;justify-content:space-between;padding:10px;margin:10px}.App--li--active{background-color:#f8f8ce}.App--button{font-weight:700;border-radius:10px;width:120px;height:30px;transition:all .3s;background-color:#00ad00}.App--button--clear,.App--button:hover{background-color:red}.App--button:hover{transform:scale(1.1)}
+/*# sourceMappingURL=main.487a39ab.chunk.css.map */
